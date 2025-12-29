@@ -1,0 +1,16 @@
+name: WellcomeBot
+version: ${project.version}
+main: com.omhackz.wellcomebot.WellcomeBot
+api-version: '1.20'
+description: Wellcome messages, rewards, Discord webhook, and commands
+author: OmHackz
+website: https://omhackz.example
+commands:
+  wellcomebot:
+    description: WellcomeBot utilities
+    usage: /wellcomebot <version|reload|post [playername]>
+    permission: wellcomebot.use
+permissions:
+  wellcomebot.use:
+    description: Allows using /wellcomebot
+    default: op

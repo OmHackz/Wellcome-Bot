@@ -1,0 +1,5 @@
+com\omhackz\wellcomebot\PlayerDataStore.class
+com\omhackz\wellcomebot\WellcomeBot.class
+com\omhackz\wellcomebot\JoinListener.class
+com\omhackz\wellcomebot\WellcomeBotCommand.class
+com\omhackz\wellcomebot\DiscordWebhook.class

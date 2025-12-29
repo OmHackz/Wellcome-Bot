@@ -1,0 +1,19 @@
+messages:
+  first_join: "&bWellcome %playername%"
+  return_join: "Wellcome Back! %playername%"
+rewards:
+  first_join:
+    item: "DIAMOND"
+    amount: 5
+  return_join:
+    item: "IRON_INGOT"
+    amount: 1
+discord:
+  enabled: true
+  webhook_url: ""
+  embed_title: "Player Joined"
+  color: 3447003
+  content_prefix: ""
+settings:
+  post_on_join: true
+  track_playtime: true
